@@ -32,6 +32,7 @@ body{
     background-image: url(perfil.jpg);
     background-position: center;
     background-size: contain;
+    background-repeat: no-repeat;
     padding: 1px;
     box-shadow: 0px 0px 0px 5px white;   
 }
