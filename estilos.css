@@ -37,11 +37,6 @@ body{
     box-shadow: 0px 0px 0px 5px white;   
 }
 
-.card__person:hover{
-    width: 200px;
-    height: 200px;
-  
-}
 
 .card__name{
     margin-top: 20px;
